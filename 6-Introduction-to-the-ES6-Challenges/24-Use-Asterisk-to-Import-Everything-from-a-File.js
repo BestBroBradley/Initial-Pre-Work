@@ -2,4 +2,4 @@
 
 "use strict";
 
-import * as aaBbCc from "capitalize_strings"; 
+import * as aaBbCc from "capitalize_strings";
